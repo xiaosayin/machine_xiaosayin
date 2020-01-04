@@ -14,3 +14,8 @@ Data.py 读数据，13，27，42行分别修改成对应训练集，测试集，
 One_second_Average.py  将要平均的csv文件的路径修改，也可添加更多的csv进行集成学习  
 One_second_Average.py  170行，读test的路径需要修改成对应路径  
 Densnet.py 和 Densesharp.py 保存权重的路径可以自定义修改  
+
+
+# 参考代码
+https://github.com/duducheng/DenseSharp   
+
